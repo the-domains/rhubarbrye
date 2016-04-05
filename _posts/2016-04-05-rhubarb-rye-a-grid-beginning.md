@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A Portfolio for Brandon K. Suhr
-datePublished: '2016-04-05T23:53:19.532Z'
-dateModified: '2016-04-05T23:47:21.899Z'
+datePublished: '2016-04-05T23:57:22.398Z'
+dateModified: '2016-04-05T23:56:01.147Z'
 title: 'Rhubarb Rye : A Grid Beginning '
 author: []
 sourcePath: _posts/2016-04-05-rhubarb-rye-a-grid-beginning.md
